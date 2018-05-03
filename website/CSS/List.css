@@ -1,0 +1,85 @@
+@charset "utf-8";
+
+/*
+Author: Mirai
+Last edited: Wed 24 Jan 2018 09:56:11 PM CST
+-- Google Fonts: Lato, Montserrat,
+Open Sans Condensed, Sedgwick Ave,
+Ubuntu, Gloria Hallelujah --
+"Watch list Style rules"
+*/
+
+/* links */
+article a:link, a:hover, a:active, a:visited {
+color: white;
+text-decoration: underline;
+}
+
+/* Divs */
+div#Notepad {
+width: 97%;
+height: 94%;
+position: relative;
+left: 1.5%;
+top: 2%;
+border: 1px solid #323333;
+border-radius: 10px;
+background-color: #323333;
+overflow-y: scroll;
+}
+
+div#Name {
+width: 33%;
+height: auto;
+float: left;
+text-align: center;
+}
+
+div#Link {
+width: 33%;
+height: auto;
+float: left;
+text-align: center;
+}
+
+div#Rating {
+width: 32.8%;
+height: auto;
+float: right;
+text-align: center;
+}
+
+
+/* h1 - h6 */
+h3 {
+color: rgb(255,114,114);
+text-align: center;
+margin: .5%;
+margin-top: 2%;
+}
+
+/* ol and ul */
+article li {
+margin: 1%;
+}
+
+article ul {
+list-style: none;
+padding: 0;
+font-family: 'Lato', sans-serif;
+}
+
+div#rating ul li {
+color: rgb(250,114,114);
+}
+
+article ol {
+color: orange;
+padding: 0px;
+font-family: 'Lato', sans-serif;
+}
+
+article a:link, a:hover, a:active, a:visited {
+color: white;
+text-decoration: underline;
+}

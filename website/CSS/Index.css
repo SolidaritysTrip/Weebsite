@@ -1,0 +1,158 @@
+@charset "utf-8";
+
+/*
+Author: Mirai
+Last edited: Wed 24 Jan 2018 09:56:11 PM CST
+-- Google Fonts: Lato, Montserrat, 
+Open Sans Condensed, Sedgwick Ave, 
+Ubuntu, Gloria Hallelujah --
+"Index Style Rules"
+*/
+
+/* Article */
+div#Grid {
+width: 72.5%;
+height: 100%;
+float: left;
+background-image: url(../IMG/ArticleBG.png);
+background-repeat: no-repeat;
+background-position: 70% 43%;
+background-size: 90% 25%;
+}
+article {
+background-image: url(../IMG/ArticleBG.png);
+background-repeat: no-repeat;
+background-position: 17% 100%;
+background-size: 65% 25%;
+}
+/* Divs */
+div#Waifu {
+width: 25%;
+height: 80%;
+float: right;
+border: 2px solid #323333;
+border-radius: 8px 8px 8px 0px;
+}
+
+div#Waifu img {
+width: 100%;
+height: 100%;
+}
+
+h4 {
+margin-top: 4%;
+margin-bottom: 1%;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+font-family: 'Sedgwick Ave', sans-serif;
+color: white;
+font-size: 150%;
+}
+
+div#waifu p {
+text-align: center;
+font-family: 'Ubuntu', sans-serif;
+margin-top: 2%;
+margin-bottom: 1%;
+margin-left: auto;
+margin-right: auto;
+}
+
+div#bodyFrame {
+border-radius: 0px 10px 0px 0px;
+}
+
+div#Pic1-3 {
+width: 100%;
+height: 40%;
+margin: 1.5%;
+}
+
+div#Pic4-6 {
+width: 100%;
+height: 40%;
+margin: 1.5%;
+}
+
+div#Pic1, div#Pic2, div#Pic3, div#Pic4, div#Pic5, div#Pic6 {
+width: 33%;
+height: 33%;
+margin: auto;
+}
+
+div#Pic1 h5, div#Pic2 h5, div#Pic3 h5, div#Pic4 h5, div#Pic5 h5, div#Pic6 h5 {
+margin: 4px;
+font-family: 'Montserrat', sans-serif;
+color: white;
+background-color: #323333;
+border: 1px solid black;
+border-radius: 10px;
+width: 35%;
+text-align: center;
+margin: auto;
+}
+
+div#Pic1 img, div#Pic2 img, div#Pic3 img, div#Pic4 img, div#Pic5 img, div#Pic6 img {
+width: 40%;
+height: 190%;
+margin: 5%;
+border: 2px solid #323333;
+border-radius: 10px;
+}
+
+div#Pic1 {
+float: left;
+margin: auto;
+text-align: center;
+}
+
+div#Pic2 {
+float: left;
+margin: auto;
+text-align: center;
+}
+
+div#Pic3 {
+float: left;
+margin: auto;
+text-align: center;
+}
+
+div#Pic4 {
+float: left;
+margin: auto;
+text-align: center;
+}
+
+div#Pic5 {
+float: left;
+margin: auto;
+text-align: center;
+}
+
+div#Pic6 {
+float: left;
+margin: auto;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

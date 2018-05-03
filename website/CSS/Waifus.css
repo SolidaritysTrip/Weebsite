@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+/*
+Author: Mirai
+Last edited: Wed 24 Jan 2018 09:56:11 PM CST
+-- Google Fonts: Lato, Montserrat,
+Open Sans Condensed, Sedgwick Ave,
+Ubuntu, Gloria Hallelujah --
+"Waifu pages additional Layout and styles"
+*/
+
+/* Waifu Picture Gallary */
+.waifus1 {
+width: 20%;
+height: 90%;
+}
+
+.waifus2 {
+width: 45%;
+height: 95%;
+}
+
+img.waifus1 {
+margin-left: 10%;
+border: 2px solid  rgba(0, 0, 0, .4);
+border-radius: 20px;
+}
+
+img.waifus2 {
+margin-left: 3%;
+border: 2px solid  rgba(0, 0, 0, .4);
+border-radius: 20px;
+}
+
+/* Gallary Divs */
+div#GallaryTop {
+width: 100%;
+height: 48%;
+margin-top: 1%;
+}
+div#GallaryBottom {
+width: 100%;
+height: 48%;
+}
+
+/* Repositioning the footer for some reason ;c */
+div#footer {
+position: relative;
+bottom: 15%;
+}

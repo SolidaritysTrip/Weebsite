@@ -1,0 +1,105 @@
+@charset "utf-8";
+
+/*
+Author: Mirai
+Last edited: Wed 24 Jan 2018 09:56:11 PM CST
+-- Google Fonts: Lato, Montserrat, 
+Open Sans Condensed, Sedgwick Ave, 
+Ubuntu, Gloria Hallelujah --
+"About Style Rules"
+*/
+
+/* Images */
+article img {
+width: 95%;
+height: 100%;
+float: left;
+margin: auto;
+}
+
+div#AboutIMG {
+height: 60%;
+width: 25%;
+float: left;
+border: 2px solid #323333;
+border-radius: 0px 25px 25px 0px;
+margin-right: 2.5%;
+position: relative;
+top: 20%;
+background-color: #323333;
+}
+
+
+div#AboutIMG2 {
+height: 60%;
+width: 25%;
+float: right;
+border: 2px solid #323333;
+border-radius: 25px 0px 0px 25px;
+position: relative;
+top: 12.5%;
+background-color: #323333;
+}
+
+/* Ordered Lists */
+article ol {
+margin: 5px;
+color: white;
+}
+
+/* h1 - h6 */
+article h2 {
+color: white;
+font-family: 'Sedgwick Ave', sans-serif;
+text-align: center;
+margin: 0%;
+text-decoration: underline;
+position: relative;
+top: 5%;
+right: 14%;
+}
+
+div#About h3 {
+text-align: center;
+margin: auto;
+color: rgb(255,114,114);
+text-decoration: underline;
+margin-bottom: 5%;
+}
+
+/* Paragraph Styles */
+article p {
+width: 95%;
+height: auto;
+font-family: 'Lato', sans-serif;
+color: white;
+margin: auto;
+font-size: 18px;
+}
+
+.olP {
+margin-left: 22%;
+}
+
+/* Divs */
+div#About {
+margin: auto;
+width: 44%;
+height: 75%;
+position: relative;
+top: 8%;
+border: 2px solid #323333;
+border-radius: 25px;
+float: left;
+position: relative;
+top: 12.5%;
+background-color: #323333;
+}
+
+
+
+
+
+
+
+
