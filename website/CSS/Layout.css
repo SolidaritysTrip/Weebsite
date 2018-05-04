@@ -213,3 +213,32 @@ bottom: 160%;
 div#Copyright p {
 margin: 2px;
 }
+
+/* found out i can change the scrollbar a bit so im doing it 4/14/18 */
+::-webkit-scrollbar {
+width: .8%;
+}
+
+::-webkit-scrollbar-track {
+-webkit-box-shadow: inset 0 0 6px rgb(250,114,114);
+background-color: #964545;
+}
+
+::-webkit-scrollbar-thumb {
+background-color: darkgrey;
+outline: 1px solid slategrey;
+}
+
+::-moz-scrollbar {
+width: .8%;
+}
+
+::-moz-scrollbar-track {
+-moz-box-shadow: inset 0 0 6px rgb(250,114,114);
+background-color: #964545;
+}
+
+::-moz-scrollbar-thumb {
+background-color: darkgrey;
+outline: 1px solid slategrey;
+}
