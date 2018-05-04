@@ -11,5 +11,7 @@ However you will see updates from me in this readme so i can keep track of my pr
 0.0.1 AND 0.0.2 were updates that fixed some code, and cleaned up my files just a bit 5/4/18
 
 ```css
-position: relative;
+html {
+background: url("you.png");
+}
 ```
