@@ -39,6 +39,18 @@ color: white;
 font-size: 150%;
 }
 
+h5 a {
+text-decoration: none;
+font-size: 13px;
+}
+
+h5 a:visited, a:hover, a:link, a:active {
+color: rgb(250,114,114);
+font-size: 13px;
+color: white;
+}
+
+
 /* Divs */
 div#Waifu {
 width: 25%;
