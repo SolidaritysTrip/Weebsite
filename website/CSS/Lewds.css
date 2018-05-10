@@ -1,0 +1,19 @@
+/* figure placement */
+article figure {
+float: left;
+}
+
+div#ArticleFig{
+width: 90%;
+height: 100%;
+margin: auto;
+}
+
+/* Styles for figcaption */
+article figure figcaption {
+text-align: center;
+margin-top: 4px;
+font-family: 'monsterrat', cursive;
+color: white;
+text-shadow: rgb(250,114,114) 2px 2px 2px;
+}
